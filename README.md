@@ -1,5 +1,5 @@
 # 46368
-A clone of [TheReal23's 2584](https://thereal23.github.io/2584)
+A clone of [TheReal23's 2584](https://thereal23.github.io/2584).
 
 [Play it here!](https://ryan2144.github.io/46368)
 
