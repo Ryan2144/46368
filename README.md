@@ -1,16 +1,6 @@
-# 32768
-A small clone of [2048], based on [Gabriele Cirulli's 2048](http://git.io/2048) (also a clone).
+# 46368
+A clone of [TheReal23's 2584](https://thereal23.github.io/2584)
 
-Made just for fun. [Play it here!](http://nikeix.github.io/32768)
+[Play it here!](https://ryan2144.github.io/46368)
 
-### Screenshot
-
-<p align="center">
-  <img src="http://screencut.info/photos/17e2ac93d2bb912f087c7514a317a644/SC_112.jpg" alt="Screenshot"/>
-</p>
-
-Never got there, just little cheating :smile:
-
-
-## Donations
-Please help the creator of the original game 2048,Gabriele Cirulli!  BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. 
+You will need to merge adjacent Fibonacci numbers to reach 46368. If you do not know the Fibonacci sequence, it goes: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, and so on. You add the previous 2 numbers in the sequence to get the next one.
